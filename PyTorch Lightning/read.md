@@ -6,22 +6,26 @@
 
 4. In Lightning you got a bunch of freebies such as a  progress bar
 
-5. ![image](https://github.com/theekshanamadumal/MachineLearning/assets/66960247/d058b302-56f9-4427-97be-8aa445e28909)
+ ![image](https://github.com/theekshanamadumal/MachineLearning/assets/66960247/d058b302-56f9-4427-97be-8aa445e28909)
+ 
 
-6. you also got a beautiful weights summary
 
-7. ![image](https://github.com/theekshanamadumal/MachineLearning/assets/66960247/0edfeda4-4fce-4404-a871-04bd0f98a591)
+5. you also got a beautiful weights summary
 
-8. tensorboard logs
+ ![image](https://github.com/theekshanamadumal/MachineLearning/assets/66960247/0edfeda4-4fce-4404-a871-04bd0f98a591)
 
-9. checkpointing, and early stopping
+ 
 
-10. Lightning is known best for out of the box goodies such as TPU training
+6. tensorboard logs
 
-11. In Lightning, you can train your model on CPUs, GPUs, Multiple GPUs, or TPUs without changing a single line of your PyTorch code.
+7. checkpointing, and early stopping
 
-12. built in profiler that can tell you where the bottlenecks are in your training.
+8. Lightning is known best for out of the box goodies such as TPU training
 
-13. can also train on multiple GPUs at once without you doing any work (you still have to submit a SLURM job)
+9. In Lightning, you can train your model on CPUs, GPUs, Multiple GPUs, or TPUs without changing a single line of your PyTorch code.
+
+10. built in profiler that can tell you where the bottlenecks are in your training.
+
+11. can also train on multiple GPUs at once without you doing any work (you still have to submit a SLURM job)
 
 
